@@ -35,7 +35,7 @@ L'équipe comptait 6 membres (2 Cyber, 2 ILMSI, 2 RIT). Le binôme RIT (Yoann, A
 | Donald | ILMSI | Responsable Technique |
 | Jedcy | ILMSI | Responsables documentation  |
 
-**Rôles transverses à attribuer :**
+**Définition de chaque rôles :**
 
 - **Chef de projet** : suit l'avancement, prépare les commissions, fait le lien avec le coach.
 - **Scrum master** : anime les points d'équipe, tient le Kanban à jour, lève les blocages.
