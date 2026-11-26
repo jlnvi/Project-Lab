@@ -35,5 +35,5 @@
 
 ## Retours d'expérience
 
-- **Humanoïde abandonné (DEC-02)** : un premier concept trop ambitieux nous a appris à définir un MVP et à revoir le périmètre régulièrement (R4).
-- **Départ du binôme RIT (DEC-05)** : la perte d'une spécialité a montré qu'il faut documenter les tâches pour pouvoir les réaffecter (R5).
+- **Humanoïde abandonné** : un premier concept trop ambitieux nous a appris à définir un MVP et à revoir le périmètre régulièrement (R4).
+- **Départ du binôme RIT** : la perte d'une spécialité a montré qu'il faut documenter les tâches pour pouvoir les réaffecter (R5).
