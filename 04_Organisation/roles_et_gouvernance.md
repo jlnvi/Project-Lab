@@ -30,17 +30,18 @@ L'équipe comptait 6 membres (2 Cyber, 2 ILMSI, 2 RIT). Le binôme RIT (Yoann, A
 
 | Membre | Spécialité | Rôle transverse |
 |---|---|---|
-| Julien | Cybersécurité | [À COMPLÉTER] |
-| Ajanthan | Cybersécurité | [À COMPLÉTER] |
-| Donald | ILMSI | [À COMPLÉTER] |
-| Jedcy | ILMSI | [À COMPLÉTER] |
+| Julien | Cybersécurité | Chef de projet |
+| Ajanthan | Cybersécurité | Scrum master |
+| Donald | ILMSI | Responsable Technique |
+| Jedcy | ILMSI | Responsables documentation  |
 
 **Rôles transverses à attribuer :**
 
 - **Chef de projet** : suit l'avancement, prépare les commissions, fait le lien avec le coach.
 - **Scrum master** : anime les points d'équipe, tient le Kanban à jour, lève les blocages.
-- **Responsable preuves** : tient ce dépôt GitHub à jour, vérifie que chaque affirmation du deck a sa preuve.
-
+- **Responsable technique ** : garde la cohérence de l'architecture (voix, avatar, appli, backend) et pilote l'intégration.
+- **Responsable qualité et documentation ** : gère le dépôt GitHub et les preuves à jour, organise les tests utilisateurs prochainement
+ 
 ## Répartition des responsabilités
 
 | Domaine | Binôme Cyber | Binôme ILMSI |
