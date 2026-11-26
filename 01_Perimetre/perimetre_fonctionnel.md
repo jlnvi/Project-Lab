@@ -70,13 +70,11 @@ mindmap
 | Robot physique (moteurs, électronique, boîtier) | Départ du binôme RIT, risques matériels  |
 | Robot humanoïde, déplacement, manipulation | Irréalisable avant avril  |
 | Reconnaissance de gestes | Recentrage demandé en Commission 1 |
-| Suivi médical, alerte d'urgence | Responsabilité médicale, hors de nos compétences |
-| Commercialisation | Projet pédagogique |
 
 ## Limites retenues
 
 - Prototype de démonstration, pas un produit fini.
-- Environ [8] commandes vocales gérées.
-- Tests avec environ [5] personnes.
+- Environ _ commandes vocales gérées.
+- Tests avec environ 5 personnes.
 - Tout tourne sur PC, sans cloud ; Raspberry Pi en option.
-- Langue : français uniquement.
+- Langue : français envisagé.
