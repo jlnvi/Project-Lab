@@ -50,7 +50,7 @@ mindmap
 
 | Réf. | Fonction | Utilisateur | Priorité |
 |---|---|---|---|
-| F1 | Détecter un mot d'éveil (nom du robot) | Personne âgée | Indispensable |
+| F1 | Détecter un mot d'éveil CyberCore | Personne âgée | Indispensable |
 | F2 | Transcrire la parole en français | Personne âgée | Indispensable |
 | F3 | Générer une réponse courte avec une IA locale | Personne âgée | Indispensable |
 | F4 | Répondre à voix haute (voix française naturelle) | Personne âgée | Indispensable |
