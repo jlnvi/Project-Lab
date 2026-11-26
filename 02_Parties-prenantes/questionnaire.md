@@ -12,7 +12,7 @@
 | Cible | Toute personne, de tous types d'âges |
 | Diffusion | Ami, famille et réseaux sociaux |
 | Période | Jusqu'au 25/11/2026 |
-| Nombre de réponses | [À COMPLÉTER] |
+| Nombre de réponses | 56 |
 | Réalisé par | Ajanthan ANANDHAKUMAR |
 
 ## Questions
@@ -64,30 +64,55 @@
 
 ## Résultats clés
 
-[À COMPLÉTER une fois les réponses récoltées : exporter les réponses depuis Google Forms (onglet « Réponses », puis « Télécharger les réponses (.csv) ») et ajouter les graphiques en images dans ce dossier. Analyser à part les répondants de 65 ans et plus (Q1).]
+Résultats issus de l'onglet « Réponses » de Google Forms (56 réponses). Les pourcentages portent sur **l'ensemble des répondants**, car la part de 65 ans et plus est trop faible pour une analyse séparée (voir Limites).
 
-| Résultat | Question | Valeur (65 ans et plus) |
+### Profil des répondants
+
+| Question | Résultat |
+|---|---|
+| Q1 — Âge | Moins de 30 ans : 83,9 % (47) · 30-49 ans : ~10,7 % (6) · 65-74 ans : ~1,8 % (1) · 75 ans et plus : ~3,6 % (2) · 50-64 ans : 0 |
+| Q2 — Lieu de vie | En couple ou en famille : 78,6 % (44) · Seul(e) à domicile : 21,4 % (12) · En résidence : 0 % |
+
+### Résultats sur l'isolement, le moral et le numérique
+
+| Résultat | Question | Valeur (ensemble, n = 56) |
 |---|---|---|
-| Sortent une fois par semaine ou moins | Q3 | [__] % |
-| N'osent pas déranger ou se sentent démunis pour joindre quelqu'un | Q5 | [__] % |
-| Passent souvent ou presque tous les jours une journée sans parler à personne | Q7 | [__] % |
-| Se sentent souvent ou tout le temps seuls | Q8 | [__] % |
-| Ont besoin d'aide ou trouvent les écrans compliqués | Q11 | [__] % |
-| Craignent beaucoup ou un peu les intrusions et arnaques | Q12 | [__] % |
-| Trouvent l'assistant très utile | Q13 | [__] % |
-| Intéressés à condition que leur vie privée soit protégée | Q13 | [__] % |
+| Sortent une fois par semaine ou moins | Q3 | 8,9 % (5) — 51,8 % sortent tous les jours, 39,3 % plusieurs fois par semaine |
+| N'osent pas déranger ou se sentent démunis pour joindre quelqu'un | Q5 | 46,4 % (26) — dont 37,5 % « n'osent pas déranger » et 8,9 % « démunis » |
+| Passent souvent ou presque tous les jours une journée sans parler à personne | Q7 | ~12,5 % (7) — 41,1 % jamais, 46,4 % rarement |
+| Se sentent souvent ou tout le temps seuls | Q8 | ~8,9 % (5) — dont 7,1 % « tout le temps » ; 44,6 % « de temps en temps » |
+| Ont besoin d'aide ou trouvent les écrans compliqués | Q11 | ~8,9 % (5) — 91,1 % sont très à l'aise |
+| Craignent beaucoup ou un peu les intrusions et arnaques | Q12 | 75,0 % (42) — dont 17,9 % « beaucoup » et 57,1 % « un peu » |
+| Trouvent l'assistant très utile | Q13 | 21,4 % (12) |
+| Intéressés à condition que leur vie privée soit protégée | Q13 | 44,6 % (25) |
+| Pas intéressés par l'assistant | Q13 | 33,9 % (19) |
+
+### Résultats complémentaires
+
+- **Q4 — Appels aux proches** : 41,1 % tous les jours, 37,5 % plusieurs fois par semaine, ~3,6 % quelques fois par mois, 17,9 % rarement ou jamais.
+- **Q6 — Quand on est seul(e) chez soi** : 80,4 % utilisent un écran (45 personnes), 35,7 % la télévision ou la radio, 23,2 % lisent, jardinent ou bricolent, 10,7 % tournent en rond ou s'ennuient. Les réponses « Autre » crédibles mentionnent notamment dormir, la console de jeux, le ménage ou jouer avec les enfants. Les réponses manifestement fantaisistes ont été écartées de l'analyse.
+- **Q9 — Baisse de moral** : 60,7 % parfois, 17,9 % régulièrement, 8,9 % presque tous les jours, 12,5 % pas du tout. **87,5 % ressentent donc au moins parfois une baisse de moral.**
+- **Q10 — Ce qui aide quand le moral baisse** (39 réponses libres, dont une réponse fantaisiste écartée) : les thèmes qui reviennent sont le sommeil et le repos, la musique, le sport et la promenade, parler à ses proches ou à ses amis, les séries et les réseaux sociaux, manger, ainsi que la foi pour quelques personnes. Les réponses mettent surtout en avant des activités individuelles et le contact humain direct.
 
 ## Ce que ça confirme ou contredit
 
 | Hypothèse | Questions | Résultat | Verdict |
 |---|---|---|---|
-| H1 — Les seniors acceptent de parler à une machine | Q13 | [À COMPLÉTER] | [Confirmée / Nuancée / Contredite] |
-| H2 — Un avatar à l'écran suffit à créer du lien | Entretiens (pas couvert par le questionnaire) | [À COMPLÉTER] | [Confirmée / Nuancée / Contredite] |
-| H3 — La confidentialité des conversations compte pour les seniors | Q12, Q13 | [À COMPLÉTER] | [Confirmée / Nuancée / Contredite] |
+| H1 — Les seniors acceptent de parler à une machine | Q13 | 66,0 % des répondants sont intéressés (21,4 % très utile + 44,6 % sous condition), 33,9 % ne le sont pas. Seulement 3 répondants ont 65 ans ou plus : le résultat ne permet pas de conclure pour les seniors. | Nuancée |
+| H2 — Un avatar à l'écran suffit à créer du lien | Entretiens (pas couvert par le questionnaire) | Non couvert par le questionnaire. | Non évaluée ici |
+| H3 — La confidentialité des conversations compte pour les seniors | Q12, Q13 | 75 % craignent les arnaques ou intrusions, et la réponse la plus choisie à Q13 (44,6 %) pose la protection de la vie privée comme condition. Le résultat porte sur un échantillon majoritairement jeune. | Confirmée sur l'échantillon, à vérifier chez les seniors |
 
 ## Limites
 
-- Échantillon de [__] personnes, non représentatif de toute la population âgée.
-- Questionnaire en ligne : les personnes âgées les moins à l'aise avec le numérique y répondent moins. Les entretiens complètent ce biais.
-- Q1 accepte toutes les tranches d'âge : les résultats sont analysés en priorité sur les 65 ans et plus.
+- Échantillon de 56 personnes, non représentatif de la population âgée.
+- **83,9 % des répondants ont moins de 30 ans** et seulement 3 ont 65 ans ou plus (aucun en résidence accompagnée) : l'analyse prioritaire sur les 65 ans et plus prévue au départ n'est pas possible avec ce questionnaire seul. Les résultats décrivent surtout un public jeune et très à l'aise avec le numérique (91,1 % très à l'aise).
+- Questionnaire en ligne et diffusé via amis, famille et réseaux sociaux : les personnes âgées les moins à l'aise avec le numérique y répondent moins. Les entretiens complètent ce biais.
+- Les effectifs des petites catégories (Q1, Q3, Q7, Q8, Q11) sont estimés à partir des pourcentages des graphiques, donc arrondis.
+- Q13 présente l'assistant de façon plutôt positive, ce qui peut favoriser les réponses favorables.
+- Quelques réponses libres manifestement humoristiques (Q6 « Autre », Q10) ont été écartées de l'analyse qualitative. Les résultats chiffrés des questions à choix n'ont pas pu être filtrés de la même façon : une partie des réponses peu sérieuses peut y subsister.
 - Q8 à Q10 portent sur le moral : réponses anonymes, aucune donnée identifiante collectée (pas d'adresse e-mail).
+
+## Pour aller plus loin
+
+- Exporter les réponses (onglet « Réponses », puis « Télécharger les réponses (.csv) ») pour croiser les résultats par tranche d'âge.
+- Relancer la diffusion auprès des 65 ans et plus (associations, résidences, entourage) pour renforcer la représentativité.
