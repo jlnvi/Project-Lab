@@ -4,11 +4,11 @@
 
 | | |
 |---|---|
-| **Date** | [À COMPLÉTER] |
+| **Date** | 07/10/2026 |
 | **Type** | Point d'équipe — décision structurante |
-| **Lieu** | [À COMPLÉTER] |
+| **Lieu** | ESIEE-IT |
 | **Présents** | Julien, Ajanthan, Donald, Jedcy |
-| **Rédacteur** | [À COMPLÉTER] |
+| **Rédacteur** | Toute l'équipe |
 
 ## Ordre du jour
 
