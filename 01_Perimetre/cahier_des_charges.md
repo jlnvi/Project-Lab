@@ -2,7 +2,7 @@
 
 > Project Lab ESIEE-IT · Équipe 1B Cybercore · Sujet 2 : Interaction multimodale sécurisée
 > Novembre 2026.
-> Les éléments entre `[À COMPLÉTER]` ou `[À CHOISIR]` sont à valider par l'équipe.
+
 
 ## 1. Contexte et objectifs
 
@@ -54,7 +54,7 @@ Robot physique, déplacement, manipulation d'objets, reconnaissance de gestes, s
 | F11 | Permettre d'interrompre l'assistant pendant qu'il parle | Souhaitable |
 | F12 | Porter l'assistant sur un Raspberry Pi durci | Souhaitable |
 
-**Commandes critiques** (F8, F9) : toute action qui modifie le comportement de l'assistant ou donne accès à des données, par exemple créer ou modifier un rappel, ajouter un contact, consulter le journal, changer un réglage. [À COMPLÉTER : liste définitive]
+**Commandes critiques** (F8, F9) : toute action qui modifie le comportement de l'assistant ou donne accès à des données. Depuis l'appli aidant : créer ou modifier un rappel, ajouter ou supprimer un contact, régler la liste des sorties, consulter le journal, changer un réglage. À la voix : supprimer un rappel créé par l'aidant (confirmation demandée)
 
 ---
 
@@ -62,7 +62,7 @@ Robot physique, déplacement, manipulation d'objets, reconnaissance de gestes, s
 
 | Réf. | Exigence | Vérification |
 |---|---|---|
-| S1 | Voix, texte et réponses traités uniquement en local, sans appel à un service cloud | Capture réseau pendant 1 h d'utilisation : 0 flux sortant vers Internet |
+| S1 | Voix, texte et réponses traités uniquement en local ; seuls les messages et rappels de l'aidant transitent, chiffrés (S5) | Capture réseau pendant 1 h d'utilisation : 0 flux sortant vers Internet |
 | S2 | Authentification de l'aidant dans l'appli (mot de passe robuste + second facteur) | Test d'intrusion |
 | S3 | Chaque commande critique est authentifiée (jeton ou signature) avant exécution | Tentative de commande forgée refusée |
 | S4 | Journal des commandes critiques infalsifiable (entrées chaînées par empreinte) | Modification manuelle du journal détectée |
@@ -120,9 +120,9 @@ flowchart LR
 | Transcription | whisper.cpp (modèle base ou small) | faster-whisper, Vosk |
 | IA (dialogue) | Qwen3 ou Gemma 3 (quantifié) via llama.cpp ou Ollama | Llama 3.2, Ministral 3B |
 | Synthèse vocale | Piper TTS (voix française) | Coqui TTS, espeak-ng |
-| Avatar | [À CHOISIR] page web animée (HTML/JS) | Simulateur Reachy Mini |
-| Appli aidant | [À CHOISIR] application web (PWA) | Flutter, React Native |
-| Backend | [À CHOISIR] FastAPI (Python) | Flask |
+| Avatar | page web animée (HTML/JS) | Simulateur Reachy Mini |
+| Appli aidant | application web (PWA) | Flutter, React Native |
+| Backend | FastAPI (Python) | Flask |
 | Stockage | SQLite chiffrée | — |
 | Orchestration | Script Python asynchrone, services système | — |
 
@@ -151,7 +151,7 @@ Chaque brique est un module indépendant : on peut changer de modèle d'IA ou d'
 
 - **Équipe** : 4 personnes (binôme Cyber, binôme ILMSI), en alternance.
 - **Délai** : 84 h de séances Project Lab, jusqu'à la soutenance finale du 27/04/2027, plus le travail à distance.
-- **Budget** : 0 à 30 € (option Raspberry Pi : 110 à 170 €). [À COMPLÉTER : financement]
+- **Budget** : Environ 50 € (micro usb + enceinte usb). (option Raspberry Pi : 110 à 170 €).
 - **Données** : personnes vulnérables, donc RGPD strict.
 
 ---
