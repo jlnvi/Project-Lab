@@ -41,7 +41,7 @@ Robot physique, déplacement, manipulation d'objets, reconnaissance de gestes, s
 
 | Réf. | Exigence | Priorité |
 |---|---|---|
-| F1 | Détecter un mot d'éveil (nom de l'assistant) | Indispensable |
+| F1 | Détecter un mot d'éveil CyberCore | Indispensable |
 | F2 | Transcrire la parole en français | Indispensable |
 | F3 | Générer une réponse courte (1 à 2 phrases) avec une IA locale, selon une personnalité définie | Indispensable |
 | F4 | Répondre à voix haute avec une voix française naturelle | Indispensable |
