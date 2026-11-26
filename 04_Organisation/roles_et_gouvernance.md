@@ -9,7 +9,7 @@
 flowchart TB
     J[Jury des commissions<br/>valide chaque phase]
     C[Coach : Chris<br/>conseille, arbitre les blocages]
-    CP[Chef de projet<br/>À COMPLÉTER]
+    CP[Chef de projet<br/>JULIEN]
     J --- C
     C --- CP
     CP --- CY
