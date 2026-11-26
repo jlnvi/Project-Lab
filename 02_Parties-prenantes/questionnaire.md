@@ -9,11 +9,11 @@
 |---|---|
 | Lien | [Formulaire Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSe0Bb014wa4GaNe49J76EJEYWfawQEIB8YSSxW1QLwps2Iitg/viewform) |
 | Anonymat | Questionnaire strictement anonyme (indiqué en tête du formulaire), adresse e-mail non collectée |
-| Cible | Personnes âgées et aidants |
-| Diffusion | [À COMPLÉTER : où et comment, ex. famille, résidences seniors, réseaux sociaux] |
-| Période | Du [À COMPLÉTER] au [À COMPLÉTER] |
+| Cible | Toute personne, de tous types d'âges |
+| Diffusion | Ami, famille et réseaux sociaux |
+| Période | Jusqu'au 25/11/2026 |
 | Nombre de réponses | [À COMPLÉTER] |
-| Réalisé par | [À COMPLÉTER] |
+| Réalisé par | Ajanthan ANANDHAKUMAR |
 
 ## Questions
 
