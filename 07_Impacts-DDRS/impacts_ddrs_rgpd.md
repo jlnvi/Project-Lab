@@ -43,10 +43,10 @@ Le projet concerne des **personnes vulnérables** (personnes âgées isolées) e
 | Donnée | Pourquoi | Où | Durée de conservation |
 |---|---|---|---|
 | Voix de l'utilisateur | Comprendre la demande | PC du domicile, en mémoire | Non conservée après transcription |
-| Transcription et réponses | Dialoguer, contexte court | PC du domicile | Fin de la conversation [À COMPLÉTER : durée] |
+| Transcription et réponses | Dialoguer, contexte court | PC du domicile | Fin de la conversation, après 5min d'inacttivité |
 | Rappels et messages de l'aidant | Fonction rappels et messages | PC du domicile, base chiffrée | Jusqu'à suppression par l'aidant |
 | Compte de l'aidant | Authentification | PC du domicile, base chiffrée | Durée d'utilisation du service |
-| Journal des commandes critiques | Traçabilité, sécurité | PC du domicile, base chiffrée | [À COMPLÉTER : ex. 6 mois] |
+| Journal des commandes critiques | Traçabilité, sécurité | PC du domicile, base chiffrée | 6 mois, puis suppression automatique |
 
 ### Principes appliqués
 
