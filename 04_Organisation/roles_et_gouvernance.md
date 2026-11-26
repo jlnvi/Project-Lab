@@ -39,8 +39,8 @@ L'équipe comptait 6 membres (2 Cyber, 2 ILMSI, 2 RIT). Le binôme RIT (Yoann, A
 
 - **Chef de projet** : suit l'avancement, prépare les commissions, fait le lien avec le coach.
 - **Scrum master** : anime les points d'équipe, tient le Kanban à jour, lève les blocages.
-- **Responsable technique ** : garde la cohérence de l'architecture (voix, avatar, appli, backend) et pilote l'intégration.
-- **Responsable qualité et documentation ** : gère le dépôt GitHub et les preuves à jour, organise les tests utilisateurs prochainement
+- **Responsable technique** : garde la cohérence de l'architecture (voix, avatar, appli, backend) et pilote l'intégration.
+- **Responsable qualité et documentation** : gère le dépôt GitHub et les preuves à jour, organise les tests utilisateurs prochainement
  
 ## Répartition des responsabilités
 
