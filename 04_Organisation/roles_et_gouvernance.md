@@ -63,29 +63,29 @@ L'équipe comptait 6 membres (2 Cyber, 2 ILMSI, 2 RIT). Le binôme RIT (Yoann, A
 
 | Rituel | Fréquence | Qui | Trace |
 |---|---|---|---|
-| Point d'équipe | [À COMPLÉTER : jour, ex. chaque lundi en visio] | Toute l'équipe | Compte rendu dans `04_Organisation/CR/` |
-| Point avec le coach | [À COMPLÉTER : fréquence] | Chef de projet + volontaires | Compte rendu |
+| Point d'équipe | Chaque semaine sur discord | Toute l'équipe | Compte rendu dans `04_Organisation/CR/` |
+| Point avec le coach | 1 Non-présentée | Chef de projet + volontaires | Compte rendu |
 | Revue de sprint | Toutes les 2 semaines | Toute l'équipe | Mise à jour du Kanban |
 | Commissions | Selon le calendrier du Project Lab | Toute l'équipe | Deck et dossier de preuves |
 
-**Travail à distance :** pendant les périodes en entreprise (alternance), l'équipe continue d'avancer à distance. Le suivi passe par GitHub (commits datés) et le Kanban.
+**Travail à distance :** pendant les périodes en entreprise (alternance), l'équipe continue d'avancer à distance. Le suivi passe par GitHub (commits datés).
 
 ## Outils collaboratifs
 
 | Besoin | Outil |
 |---|---|
 | Code et preuves | GitHub (ce dépôt) |
-| Suivi des tâches (Kanban, backlog) | [À COMPLÉTER : ex. Trello, GitHub Projects, Jira] |
-| Communication | [À COMPLÉTER : ex. Discord, Teams] |
-| Documents partagés | [À COMPLÉTER : ex. Google Drive] |
+| Suivi des tâches (Kanban, backlog) | A définir|
+| Communication | Discord |
+| Documents partagés | Discord, GitHub, Google Drive |
 
 ## Prise de décision
 
 | Type de décision | Qui décide | Comment |
 |---|---|---|
 | Choix techniques d'un domaine | Le binôme responsable | Le binôme tranche et informe l'équipe |
-| Décisions structurantes (périmètre, organisation) | Toute l'équipe | Consensus ; à défaut, vote à la majorité. Notées dans le registre des décisions |
+| Décisions structurantes (périmètre, organisation) | Toute l'équipe | Consensus ; à défaut, vote à la majorité. |
 | Blocage ou désaccord persistant | Le coach | L'équipe présente les options, le coach arbitre |
 | Validation d'une phase | Le jury | Lors des commissions |
 
-En cas d'égalité lors d'un vote à 4, [À COMPLÉTER : ex. le chef de projet tranche, ou le coach est consulté].
+En cas d'égalité lors d'un vote à 4, le chef de projet tranche.
