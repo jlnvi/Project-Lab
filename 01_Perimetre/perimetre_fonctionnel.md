@@ -67,9 +67,9 @@ mindmap
 
 | Élément exclu | Raison |
 |---|---|
-| Robot physique (moteurs, électronique, boîtier) | Départ du binôme RIT, risques matériels (voir DEC-05) |
-| Robot humanoïde, déplacement, manipulation | Irréalisable avant avril (voir DEC-02) |
-| Reconnaissance de gestes | Recentrage demandé en Commission 1 (voir DEC-03) |
+| Robot physique (moteurs, électronique, boîtier) | Départ du binôme RIT, risques matériels  |
+| Robot humanoïde, déplacement, manipulation | Irréalisable avant avril  |
+| Reconnaissance de gestes | Recentrage demandé en Commission 1 |
 | Suivi médical, alerte d'urgence | Responsabilité médicale, hors de nos compétences |
 | Commercialisation | Projet pédagogique |
 
