@@ -47,6 +47,6 @@ Deux options ont été comparées :
 
 | Action | Responsable | Échéance | Statut |
 |---|---|---|---|
-| Mettre à jour le deck de la Commission 2 | [À COMPLÉTER] | 24/11 | Fait |
-| Mettre à jour le cahier des charges | [À COMPLÉTER] | 24/11 | Fait |
-| Choisir la techno de l'avatar | Binôme ILMSI | [À COMPLÉTER] | À faire |
+| Mettre à jour le deck de la Commission 2 | Toute l'équipe | 24/11 | Fait |
+| Mettre à jour le cahier des charges | Toute l'équipe | 24/11 | Fait |
+| Choisir la techno de l'avatar | Binôme ILMSI | 27/11 | À faire |
