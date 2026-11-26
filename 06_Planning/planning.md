@@ -52,9 +52,9 @@ gantt
 |---|---|---|---|
 | 21/10/2026 | Commission 1 | Projet et axe validés ✓ | — |
 | 27/11/2026 | Commission 2 | Note de cadrage (deck + ce dépôt de preuves) | ≈ 13 h |
-| 30/11/2026 | CP2 Conception (9h-10h, salle 3.40) | Point d'avancement | — |
+| 30/11/2026 | CP2 Conception | Point d'avancement | — |
 | 05/02/2027 | Commission 3 | Dossier de conception, dialogue validé sur PC | ≈ 21 h |
-| 08/02/2027 | CP3 Développement (9h-10h, salle 3.40) | Point d'avancement | — |
+| 08/02/2027 | CP3 Développement | Point d'avancement | — |
 | 09/04/2027 | Commission 4 | Assistant, appli et sécurité testés | ≈ 46 h |
 | 23/04/2027 | Commission 5 | Soutenance blanche, démo | ≈ 2 h |
 | 27/04/2027 | Soutenance finale | Démo et dossier final | ≈ 2 h |
