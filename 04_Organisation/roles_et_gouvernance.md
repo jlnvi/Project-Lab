@@ -26,7 +26,7 @@ flowchart TB
 
 ## Composition de l'équipe
 
-L'équipe comptait 6 membres (2 Cyber, 2 ILMSI, 2 RIT). Le binôme RIT (Yoann, Antoine) a quitté l'équipe ; elle compte aujourd'hui 4 membres. Voir la décision DEC-05 du registre des décisions.
+L'équipe comptait 6 membres (2 Cyber, 2 ILMSI, 2 RIT). Le binôme RIT (Yoann, Antoine) a quitté l'équipe ; elle compte aujourd'hui 4 membres.
 
 | Membre | Spécialité | Rôle transverse |
 |---|---|---|
